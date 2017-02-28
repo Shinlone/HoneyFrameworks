@@ -15,5 +15,4 @@ https://github.com/Bilibili/ijkplayer
 ##vlc
 https://github.com/videolan/vlc
 
--  vlc是一个基于FFmpeg的视频播放器，
-
+-  vlc是一个基于FFmpeg的视频播放器，支持Android、ios、windows、linux，这个播放器完成度挺高的，可当做设备中日常用的播放器。由于开源的原因，也可将其用作播放器二次开发和直播的流媒体解码。
