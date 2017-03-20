@@ -1,6 +1,6 @@
 # HoneyFrameworks
-收集一些好用的开源框架
-#音视频解码、直播
+* 收集一些好用的开源框架
+# 音视频解码、直播
 ##FFmpeg
 https://github.com/FFmpeg/FFmpeg
 
@@ -19,4 +19,4 @@ https://github.com/videolan/vlc
 ##Android-QuickSideBar
 
 https://github.com/saiwu-bigkoo/Android-QuickSideBar
-*帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。
+* 帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。
