@@ -18,7 +18,8 @@ https://github.com/videolan/vlc
 
 *  vlc是一个基于FFmpeg的视频播放器，支持Android、ios、windows、linux，这个播放器完成度挺高的，可当做设备中日常用的播放器。由于开源的原因，也可将其用作播放器二次开发和直播的流媒体解码。
 
+# Android开源组件
 ## Android-QuickSideBar
 
 https://github.com/saiwu-bigkoo/Android-QuickSideBar
-* 帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。
+* 帮助快速查阅对应分组的侧边栏，如通讯录等效果，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。
